@@ -1,0 +1,8 @@
+<!-- Flatpickr CSS ve JS (head kısmında çağrılmış olmalı) -->
+<link rel=""stylesheet"" href=""https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css"">
+<link rel=""stylesheet"" type=""text/css"" href=""https://npmcdn.com/flatpickr/dist/themes/material_blue.css"">
+
+<script src=""https://cdn.jsdelivr.net/npm/flatpickr""></script>
+<script src=""https://cdn.jsdelivr.net/npm/flatpickr/dist/l10n/tr.js""></script>
+
+<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/3.0.0/uicons-regular-straight/css/uicons-regular-straight.css'>
